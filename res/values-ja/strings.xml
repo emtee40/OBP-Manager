@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OneBox パッケージ管理</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">キャンセル</string>
+    <string name="environment_corrupted">パッケージが期待通りにインストールされていません． 環境マネージャを Google Playストアから入手することができます． もし費用を節約したいのであれば，手作業でセットアップすることも可能性です． Google Playストアを開きますか?</string>
+    <string name="greeting_messages">このアプリケーションは，OneBox コマンドラインツールを端末エミュレータ (jackpal.androidterm)　にインストールします．</string>
+    <string name="next">次へ</string>
+    <string name="no">いいえ</string>
+    <string name="yes">はい</string>
+
+</resources>
