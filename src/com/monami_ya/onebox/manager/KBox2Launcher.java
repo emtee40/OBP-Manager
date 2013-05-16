@@ -60,8 +60,8 @@ public class KBox2Launcher extends Activity {
 		}
 		Intent intent = new Intent("jackpal.androidterm.RUN_SCRIPT");
 		intent.addCategory(Intent.CATEGORY_DEFAULT);
-		intent.putExtra("jackpal.androidterm.iInitialCommand", "/data/data/jackpal.androidterm/kbox2/bin/kbox_shell");
+		intent.putExtra("jackpal.androidterm.iInitialCommand", "exec /data/data/jackpal.androidterm/kbox2/bin/kbox_shell");
 		startActivity(intent);
-		
+		finish();
 	}
 }
