@@ -9,5 +9,6 @@
     <string name="next">Next</string>
     <string name="no">No</string>
     <string name="yes">Yes</string>
+    <string name="kbox2_launcher_name">OneBox Shell</string>
 
 </resources>
