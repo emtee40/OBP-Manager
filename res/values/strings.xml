@@ -6,9 +6,8 @@
     <string name="cancel">Cancel</string>
     <string name="environment_corrupted">Packages don\'t be installed as expected. You can get environment manager via Google Play Store. You can setup them by your hand if you want to save some money. Open Google Play Store?</string>
     <string name="greeting_messages">This installs command line tools into Android Terminal (jackpal.androidterm).</string>
+    <string name="kbox2_launcher_name">OneBox Shell</string>
     <string name="next">Next</string>
     <string name="no">No</string>
     <string name="yes">Yes</string>
-    <string name="kbox2_launcher_name">OneBox Shell</string>
-
 </resources>
